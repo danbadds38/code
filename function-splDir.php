@@ -1,3 +1,4 @@
+<?php
 function splDir() {
     $templates = array();
     global $main_root_path_directory;
